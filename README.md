@@ -6,7 +6,7 @@ Install openldap server
 Requirements
 ------------
 
-FreeBSD 10|11, debian 8
+FreeBSD 10|11, debian 8, centos 7
 
 Role Variables (default)
 ------------------------
